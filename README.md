@@ -11,6 +11,8 @@ I'm Nirav, currently a final year student of Computer Science and Engineering at
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+![Nirav's GitHub stats](https://github-readme-stats.vercel.app/api?username=srkds&show_icons=true&theme=radical)
 <!--
 **srkds/srkds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

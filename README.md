@@ -1,4 +1,4 @@
-### Hi, I'm Nirav👋, Great to see you.
+### Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Nirav👨‍💻, Great to see you.
 
 <h2 align="center">Full-stack MERN Developer</h2>
 

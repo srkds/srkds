@@ -13,6 +13,12 @@ I'm Nirav, currently a final year student of Computer Science and Engineering at
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ![Nirav's GitHub stats](https://github-readme-stats.vercel.app/api?username=srkds&show_icons=true&theme=radical)
+
+<!-- Postman student expert badge -->
+<a href="https://api.badgr.io/public/assertions/EZYMK4bOQ6akn8m08ZPLvA"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/EZYMK4bOQ6akn8m08ZPLvA/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Feb 15, 2022</p>
+<!-- End Postman student expert badge -->
+
+
 <!--
 **srkds/srkds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

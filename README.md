@@ -12,6 +12,11 @@ I'm Nirav, currently a final year student of 🎓 Computer Science and Engineeri
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
+### Databases :
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![Nirav's GitHub stats](https://github-readme-stats.vercel.app/api?username=srkds&show_icons=true&theme=radical)
 
 <!-- Postman student expert badge -->

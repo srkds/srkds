@@ -1,5 +1,5 @@
 ### Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Nirav👨‍💻, Great to see you.
-
+<img src="https://i.ibb.co/SwTvgd3/gbbanner.png" width="100%"/>
 <h2 align="center">🚀 Full-stack MERN Developer</h2>
 
 I'm Nirav, currently a final year student of 🎓 Computer Science and Engineering at 🏫 Gujarat Technological University.

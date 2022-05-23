@@ -17,6 +17,9 @@ I'm Nirav, currently a final year student of 🎓 Computer Science and Engineeri
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Cloud :
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ![Nirav's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=srkds&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 <!-- Postman student expert badge -->

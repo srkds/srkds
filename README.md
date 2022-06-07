@@ -1,8 +1,8 @@
 ### Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px">, I'm Nirav👨‍💻, Great to see you.
-<img src="https://i.ibb.co/SwTvgd3/gbbanner.png" width="100%"/>
+<img src="assets/hero2.png" width="100%"/>
 <h2 align="center">🚀 Full-stack MERN Developer</h2>
 
-I'm Nirav, currently a final year student of 🎓 Computer Science and Engineering at 🏫 Gujarat Technological University.
+I'm Nirav, Computer Scientist and Engineer from India 🇮🇳.
 
 ### Language :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)

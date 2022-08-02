@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Nirav 👨‍💻
+# Hi 👋, I'm Nirav 👨‍💻
 
 - Fullstack Engineer 🚀
 - Postman Student Expert: involves in building and testing API requests in [Postman](https://api.badgr.io/public/assertions/EZYMK4bOQ6akn8m08ZPLvA) ⚙️.

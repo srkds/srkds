@@ -1,5 +1,6 @@
 # Hi 👋, I'm Nirav 👨‍💻
 
+Grad Student 👨‍🎓 : Master of Engineering in Computer Engineering (ML)
 - Fullstack Engineer 🚀
 - Postman Student Expert: involves building and testing API requests in [Postman](https://api.badgr.io/public/assertions/EZYMK4bOQ6akn8m08ZPLvA) ⚙️.
 - Recent Graduate in Computer Science and Engineering 👨‍🎓

@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nirav 👨‍💻
 
-Grad Student 👨‍🎓 : Master of Engineering in Computer Engineering (ML).
+Grad Student 👨‍🎓 Master of Engineering in Computer Engineering (ML).
 Currently studying computer vision, machine learning, and advanced algorithm.
 - Experience in Backend and Fullstack Development. 🚀
 - Postman Student Expert: involves building and testing API requests in [Postman](https://api.badgr.io/public/assertions/EZYMK4bOQ6akn8m08ZPLvA) ⚙️.

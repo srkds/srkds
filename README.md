@@ -17,6 +17,8 @@ Currently studying computer vision, machine learning, and advanced algorithm. Co
 
 ![Nirav's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=srkds&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://srkds.hashnode.dev/)
+
 <!-- Postman student expert badge -->
 <!-- <a href="https://api.badgr.io/public/assertions/EZYMK4bOQ6akn8m08ZPLvA"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/EZYMK4bOQ6akn8m08ZPLvA/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Feb 15, 2022</p> -->
 <!-- End Postman student expert badge -->

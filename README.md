@@ -1,5 +1,7 @@
 # Hi 👋, I'm Nirav 👨‍💻
 
+🚀 Training 🧠 Neural Nets
+
 Grad Student 👨‍🎓 Master of Engineering in Computer Engineering (ML).
 Currently studying computer vision, machine learning, and advanced algorithm. Contributing to [Pandas](https://github.com/pandas-dev/pandas/commits?author=srkds) open-source project.
 

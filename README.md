@@ -5,7 +5,7 @@ Hi, I’m Nirav Patel
 
 <img src="https://raw.githubusercontent.com/srkds/Neural-networks-GYM/refs/heads/main/N-layer-NN/images/make_moons_NN.gif" height=300/>
 
-If you’re interested in collaborating, feel free to drop a message at 22cspnir014[at]ldce[dot]ac[dot]in.
+I'm working on Egocentric videos and long video understanding. If you’re interested in collaborating, feel free to drop a message at 22cspnir014[at]ldce[dot]ac[dot]in.
 
 Check out more of my work at https://srkds.github.io/
 
